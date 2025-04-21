@@ -137,7 +137,3 @@ This project is deployed using **Netlify**. Any updates pushed to the main branc
 - [Howler.js](https://howlerjs.com/)
 - Assets from Poly, Sketchfab, and other open 3D model repositories
 
-
----
-
-```
